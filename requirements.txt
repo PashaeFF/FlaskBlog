@@ -2,7 +2,7 @@ flask
 sqlalchemy
 flask-wtf
 email_validator
-flask-sqlalchemy==2.5.1
-flask_sqlalchemy
+flask-sqlalchemy
 python-dotenv
-Flask-SQLAlchemy
+flask-bcrypt
+flask-login
